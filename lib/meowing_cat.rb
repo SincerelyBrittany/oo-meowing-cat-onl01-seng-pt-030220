@@ -1,2 +1,5 @@
 ## code your solution here. 
-Class
+Class Cat 
+
+
+end
